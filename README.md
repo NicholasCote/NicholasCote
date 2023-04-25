@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nick
 
-- 🔭 I’m currently working on the CISL Cloud Pilot project at NCAR
+- 🔭 I’m currently working on the CISL Cloud Pilot project at NCAR as an Agile Technical Product Owner
 
 <!--
 **NicholasCote/NicholasCote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
